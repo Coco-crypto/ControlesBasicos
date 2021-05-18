@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises">
+        <item>Peru</item>
+        <item>Bolivia</item>
+        <item>Venezuela</item>
+        <item>Colombia</item>
+        <item>Brasil</item>
+        <item>Ecuador</item>
+        <item>Uruguay</item>
+        <item>Paraguay</item>
+        <item>Chile</item>
+    </string-array>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+        <item>Pluton</item>
+    </string-array>
+</resources>
